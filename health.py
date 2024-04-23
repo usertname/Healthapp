@@ -57,7 +57,9 @@ You are an expert in nutritionist where you need to see the food items from the 
                2. Item 2 - no of calories
                ----
                ----
-
+            Finally you can also mention whether  the food is healthy or not and also mention the percentage
+            split the ratio of carbohydrates, fats and protein. Also give the rough approximate of the macronutrients 
+            per serving.
 
 """
 
